@@ -10,7 +10,6 @@
     --bgcolor5: #054f7d;
 }
 
-
 :root {
     --navTextcolor: #fff;
     --navTextcolorHover: #ccc;
@@ -124,41 +123,39 @@ h2 {
     flex-wrap: wrap;
 }
 
-
-
 .card:nth-child(1) {
-    background-image: url("/img/ejercicio2_foto.png");
+    background-image: url("./img/ejercicio2_foto.png");
 }
 
 .card:nth-child(2) {
-    background-image: url("/img/ejercicio3_foto.png");
+    background-image: url("./img/ejercicio3_foto.png");
 }
 
 .card:nth-child(3) {
-    background-image: url("/img/ejercicio4_foto.jpg");
+    background-image: url("./img/ejercicio4_foto.jpg");
 }
 
 .card:nth-child(4) {
-    background-image: url("/img/ejercicip5_foto.jpg");
+    background-image: url("./img/ejercicip5_foto.jpg");
 }
 
 .card:nth-child(5) {
-    background-image: url("/img/Ejercicio6_foto.jpg");
+    background-image: url("./img/Ejercicio6_foto.jpg");
 }
 
 .card:nth-child(6) {
-    background-image: url("/img/Ejercicio7_foto.png");
+    background-image: url("./img/Ejercicio7_foto.png");
 }
 
 .card:nth-child(7) {
-    background-image: url("/img/Ejericicio8_foto.jpg");
+    background-image: url("./img/Ejericicio8_foto.jpg");
 }
 
 .card:nth-child(8) {
-    background-image: url("/img/ejercicio9_foto.png");
+    background-image: url("./img/ejercicio9_foto.png");
 }
 
 .card:nth-child(9) {
-    background-image: url("/img/ejercicio10_foto.jpg");
+    background-image: url("./img/ejercicio10_foto.jpg");
 }
 
