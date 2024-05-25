@@ -5,7 +5,7 @@ h1{
 }
 
 body{
-    background-image: url("./img/pizarra.jpg");
+    background-image: url("../img/pizarra.jpg");
     background-size: cover; 
     background-repeat: no-repeat; 
     background-position: center center; 
