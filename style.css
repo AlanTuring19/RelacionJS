@@ -92,29 +92,6 @@ header {
     text-align: center;
 }
 
-.card2 {
-    border-color: black !important;
-    padding: 140px;
-    margin: 0 auto 20px;
-    cursor: pointer;
-    border-radius: 5px;
-    width: 400px;
-    text-align: center;
-}
-
-.card2 button {
-    padding: 8px 16px;
-    background-color: #7f0fe7;
-    color: white;
-    border: none;
-    cursor: pointer;
-    border-radius: 10px;
-    align-self: center; 
-    position: absolute;
-    top: 120%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-}
 
 .card button {
     padding: 8px 16px;
@@ -125,7 +102,7 @@ header {
     border-radius: 10px;
     align-self: center; 
     position: absolute;
-    bottom: 15px;
+    bottom: 5px;
     right: 150px; 
 }
 
@@ -140,21 +117,13 @@ h2 {
     text-align: center;
 }
 
-.relacion1{
+.relaciones{
     display: flex;
     justify-content: center;
     align-items: center;
     flex-wrap: wrap;
 }
 
-
-.relacion2{
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    flex-wrap: wrap;
-    margin: auto;
-}
 
 
 .card:nth-child(1) {
@@ -189,7 +158,7 @@ h2 {
     background-image: url("/img/ejercicio9_foto.png");
 }
 
-.card2:nth-child(1) {
+.card:nth-child(9) {
     background-image: url("/img/ejercicio10_foto.jpg");
 }
 

@@ -76,6 +76,48 @@ input {
   font-size: 20px;
 }
 
+
+.buttonDark{
+  background-color: #007bff;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  padding: 10px 20px;
+  font-size: 16px;
+  cursor: pointer;
+  margin: 0 auto;
+  margin-top: 20px;
+  display: block;
+}
+
+.buttonDark:hover {
+  background-color: #0056b3;
+}
+
+.buttonDark:active {
+  background-color: #00408a;
+}
+
+.buttonLight{
+  background-color: #f8f9fa;
+  color: black;
+  border: black 1px solid;
+  border: none;
+  border-radius: 5px;
+  padding: 10px 20px;
+  font-size: 16px;
+  cursor: pointer;
+  margin: 0 auto; 
+  margin-top: 20px;
+  display: block;
+}
+
+.buttonLight:hover {
+  background-color: #e2e6ea;
+  border: black 1px solid;
+}
+
+
 h3 {
   margin-top: 0;
 }
